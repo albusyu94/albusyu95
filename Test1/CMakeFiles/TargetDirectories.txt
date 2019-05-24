@@ -1,0 +1,3 @@
+/home/albusyu95/桌面/Test1/CMakeFiles/edit_cache.dir
+/home/albusyu95/桌面/Test1/CMakeFiles/rebuild_cache.dir
+/home/albusyu95/桌面/Test1/CMakeFiles/rect.dir
